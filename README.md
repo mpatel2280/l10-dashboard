@@ -1,4 +1,4 @@
-# Free Tailwind & Laravel admin dashboard template
+# Laravel10 admin dashboard with Vite
 
 ![Mosaic TailwindCSS template preview](https://github.com/cruip/laravel-tailwindcss-admin-dashboard-template/assets/2683512/9d256a65-3b8a-4c15-8a4a-865be9fa9a11)
 
