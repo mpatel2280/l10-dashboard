@@ -66,7 +66,17 @@ make sure to ``truncate`` the following ``datafeeds`` table in your database.
 
 In order to compile all the CSS and JS assets for the front-end of this site you need to install NPM dependencies. To do that, open the terminal, type npm install and press the ``Enter`` key.
 
+
+
 Then run ``npm run dev`` in the terminal to run a development server to re-compile static assets when making changes to the template.
+
+If the above command gives an err..
+
+sh: 1: vite: not found
+
+Then run,
+
+``npm install`` and rerun ``npm run dev``
 
 When you have done with changes, run ``npm run build`` for compiling and minify for production.
 
